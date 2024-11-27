@@ -1,0 +1,225 @@
+@charset "utf-8";
+
+body{
+    color: white;
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0)400px,rgba(196, 196, 196, 0.774) )
+    
+}
+html > body{
+    overflow-x: hidden;
+}
+
+header > ul {
+    color: rgb(255, 255, 255);
+    background-color: rgba(122, 122, 122, 0.685);
+    display: block;
+    display: inline-block;
+    padding: 10px;
+    margin: -10px;
+    width: 100%
+    
+}
+
+
+li{
+    display: block;
+    display: inline-block;
+    padding: 10px 155px;
+    transition: all 0.3s;
+
+}
+li:hover{
+    background-color: rgb(161, 26, 22);
+    transform: translateX(10px);
+    
+    
+}
+
+
+
+
+nav > button{
+    
+    background-color: rgb(138, 17, 17);
+    color:white;
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+
+    
+}
+
+.BT{
+    background-color:rgba(122, 122, 122, 0.685); ;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.menu{
+    text-align: center;
+}
+
+div{
+    margin-left: 120px;
+    
+    
+}
+
+img{
+    border-radius: 50px;
+    padding-right: 10px;
+    margin-left: 25px;
+    
+}
+
+footer{
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(to bottom, rgb(255, 4, 4)400px,rgba(196, 196, 196, 0.774) );
+    text-align: center;
+    padding: 10px;
+    margin: -10px;
+    width: 100%;
+}
+.conteiner{
+    display: inline-block;
+    text-align: center;
+    transition: 0.2s;
+    padding: 1px;
+    
+}
+.conteiner:hover{
+    transform: scale(1.05);
+
+}
+
+.Reserva{
+    text-align: center;
+    color: rgb(117, 116, 116);
+}
+.Cadastro{
+    background-color: black;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 40px;
+    text-align: center;
+
+}
+
+form{
+    text-align: center;
+    
+
+}
+
+.Ajuste{
+    text-align: left;
+    margin-left:160px;
+
+    
+}
+
+.tabela{
+    border-radius: 5px;
+    border-color: red;
+    padding-left: 50px; 
+    
+    
+
+}
+
+
+footer{
+    background-color: rgb(107, 20, 20);
+    text-align: center;
+    padding: 10px;
+    margin: -10px ;
+    width: 100%;
+}
+
+.Reserva2{
+    background-color: rgb(193, 32, 32);
+    color:white;
+    text-decoration: none;
+    padding: 50px 50px;
+    border-radius: 5px;
+
+}
+
+aside{
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: -10px;
+    width: 100%;
+    
+    
+}
+
+.Botao{
+    background-color: rgb(193, 32, 32);
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    
+    
+}
+
+.Data{
+    border-radius: 5px;
+    padding: 4px;
+    padding-left:145px;
+    padding-right:120px;
+    text-align: center;
+    border-color: red;
+    margin-left: 53px;
+}
+.Nome{
+    border-color: red;
+    border-radius: 5px;
+    padding: 4px;
+    margin-left: 41px;
+}
+
+.Email{
+    border-color: red;
+    border-radius: 5px;
+    padding: 4px;
+    margin-left: 41px;
+}
+
+.Telefone{
+    border-color: red;
+    border-radius: 5px;
+    padding: 4px;
+    margin-left:33px;
+    padding-left: 7px;
+}
+
+.Hora{
+    border-radius: 5px;
+    padding: 3px;
+    padding-left:150px;
+    padding-right: 160px;
+    border-color: red;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
